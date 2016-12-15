@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SipCalendarProxy">
+    <output-path>$PROJECT_DIR$/out/artifacts/SipCalendarProxy</output-path>
+    <root id="archive" name="SipCalendarProxy.war" />
+  </artifact>
+</component>
